@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endregion	endregion"
+			],
+			[
+				"GetU",
+				"GetUsedBoughtCoins"
+			],
+			[
+				"data",
+				"data_org"
+			],
+			[
+				"iCLOU",
+				"ICLOUD_SUCCESS"
+			],
+			[
+				"ICLOUD",
+				"ICLOUD_SUCCESS"
+			],
+			[
+				"ICLOUD_",
+				"ICLOUD_FAILED"
+			],
+			[
+				"The",
+				"TheUserData"
+			],
+			[
+				"_MAN",
+				"_MANGO_ICLOUD"
+			],
+			[
+				"Push",
+				"PushiCloud"
+			],
+			[
+				"pul",
+				"PulliCloud"
+			],
+			[
+				"cl",
+				"clGetValueForKey"
+			],
+			[
+				"Pus",
+				"PushiCloud"
+			],
+			[
+				"djuin",
+				"djuint32"
+			],
+			[
+				"the",
+				"theAchievementSaveData"
+			],
+			[
+				"Chi",
+				"ChiefSaveData"
+			],
+			[
+				"Soldier",
+				"SoldierSaveData"
+			],
+			[
+				"Sol",
+				"SoldierData"
+			],
+			[
+				"Lo",
+				"LogAll"
+			],
+			[
+				"Achi",
+				"AchievementSaveData"
+			],
+			[
+				"Setup",
+				"SetupSlotWithData"
+			],
+			[
+				"SetFori",
+				"SetForiCloudUpSlot"
+			],
+			[
+				"m_pP",
+				"m_pPopUp"
+			],
+			[
+				"Setfor",
+				"SetForRateInternetNotConnect"
+			],
+			[
+				"GetCur",
+				"GetCurSlotData"
+			],
+			[
+				"HE",
+				"HERBYESNOCONTAINER_iCLOUDUP_NO_ID"
+			],
+			[
+				"HER",
+				"HERBYESNOCONTAINER_iCLOUDUP_YES_ID"
+			],
+			[
+				"HERB",
+				"HERBSLOT_iCLOUDUP01_ID"
+			],
+			[
+				"MAIN",
+				"MAINMENUSLOTSELECT_iCLOUD_BEGIN_Y"
+			],
+			[
+				"m_pi",
+				"m_piCloudUpButtons"
+			],
+			[
+				"setup",
+				"SetupiCloudMove"
+			],
+			[
+				"SetAni",
+				"StepAnimation"
+			],
+			[
+				"m_pSin",
+				"m_pSinMoveiCloud2DAnimation"
+			],
+			[
+				"m_psin",
+				"m_pSinMoveiCloud2DAnimation"
+			],
+			[
+				"MAINMENUSLOTSELECT_IC",
+				"MAINMENUSLOTSELECT_iCLOUD_BEGIN_X"
+			],
+			[
+				"Wri",
+				"WriteDword"
+			],
+			[
+				"remo",
+				"RemoveFromParent"
+			],
+			[
+				"lo",
+				"loginDevice"
+			],
+			[
+				"log",
+				"loginUser"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"cre",
+				"createdDevice"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"update",
+				"updateOwnerId"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"dv",
+				"device"
+			],
+			[
+				"dev",
+				"device"
+			],
+			[
+				"logi",
+				"LoginDevice"
+			],
+			[
+				"devi",
+				"device"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"add",
+				"addDevice"
+			],
+			[
+				"device",
+				"device"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"fa",
+				"fakeDeviceId"
+			],
+			[
+				"d",
+				"deviceIds"
+			],
+			[
+				"co",
+				"contains"
+			],
+			[
+				"create",
+				"createdUser"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"crea",
+				"createDevice"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"sen",
+				"sendStatus"
+			],
+			[
+				"ex",
+				"exist"
+			],
+			[
+				"has",
+				"hasRole"
+			],
+			[
+				"Re",
+				"redirect"
+			],
+			[
+				"au",
+				"authentication"
+			],
+			[
+				"pas",
+				"passwordHash"
+			],
+			[
+				"pa",
+				"passport"
+			],
+			[
+				"des",
+				"deserializeUser"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"eam",
+				"emailAddress"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"ha",
+				"hashPassword"
+			],
+			[
+				"v",
+				"Validations"
+			],
+			[
+				"inv",
+				"inventoryName"
+			],
+			[
+				"dvi",
+				"deviceOS"
+			],
+			[
+				"save",
+				"saveResult"
+			],
+			[
+				"va",
+				"validateLength"
+			],
+			[
+				"val",
+				"validateLength"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"fr",
+				"friendList"
+			],
+			[
+				"fri",
+				"friends"
+			],
+			[
+				"do",
+				"doDelete"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"uti",
+				"utils"
+			],
+			[
+				"i",
+				"inventory"
+			],
+			[
+				"invn",
+				"inventory"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"doC",
+				"doCollect"
+			],
+			[
+				"leve",
+				"level"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"achi",
+				"achievement"
+			],
+			[
+				"ac",
+				"achievement"
+			],
+			[
+				"A",
+				"AchievementList"
+			],
+			[
+				"deo",
+				"doDelete"
+			],
+			[
+				"login",
+				"loggedIn"
+			],
+			[
+				"l",
+				"Level"
+			],
+			[
+				"level",
+				"levelList"
+			],
+			[
+				"_fn",
+				"_findUser"
+			],
+			[
+				"U",
+				"Unauthorized"
+			],
+			[
+				"as",
+				"assert"
+			],
+			[
+				"_crea",
+				"_createUser"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"un",
+				"unAuthorized"
+			],
+			[
+				"I",
+				"indent_size"
+			],
+			[
+				"las",
+				"lastOwnerId"
+			],
+			[
+				"not",
+				"notEqual"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"retr",
+				"retrieveUser"
+			],
+			[
+				"no",
+				"notEqual"
+			],
+			[
+				"rest",
+				"resData"
+			],
+			[
+				"lon",
+				"loginData"
+			],
+			[
+				"remove",
+				"removeDevice"
+			],
+			[
+				"get",
+				"getUserCollection"
+			],
+			[
+				"ret",
+				"retUser"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"logIn",
+				"loginInfo"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nu",
+				"num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "u-topdownshooter.sublime-project",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "u-topdownshooter.sln",
+			"settings":
+			{
+				"buffer_size": 1406,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"om",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				":rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				":ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				":ry",
+				"Set Syntax: Ruby"
+			],
+			[
+				":jsa",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				":jav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				":Ry",
+				"Set Syntax: Ruby"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"user",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/duytran/Documents/myproject/u-topdownshooter/src"
+	],
+	"file_history":
+	[
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Camera/CameraFollow.cs",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Platform/PlatformController.cs",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Character/Controller2D.cs",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/User/CandyMountain.tmTheme",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Helpers/RaycastController.cs",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Character/Player.cs",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/User/unity.tmTheme",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/Users/duytran/Library/Application",
+		"/Users/duytran/Documents/myproject/u-2dplatform/Text",
+		"/Users/duytran/Documents/myproject/u-2dplatform/Support/Sublime",
+		"/Users/duytran/Documents/myproject/u-2dplatform/3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/2dplatform.sln",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/duytran/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/duytran/Documents/myproject/u-2dplatform/src/2dplatform.sublime-project",
+		"/Users/duytran/Downloads/RuntimeEnum.cs",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/create_data.sh",
+		"/Users/duytran/bin/batch-rename.sh",
+		"/Users/duytran/Downloads/SpriteSheetGenerator0/Sprite Sheet Generator 0.6.0.jsx",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/model/HerbUserData.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/text/eng/credit.text",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/deploy.sh",
+		"/Users/duytran/Downloads/SimpleParallax/Assets/Scripts/ParallaxLayer.cs",
+		"/etc/hosts",
+		"/Users/duytran/Documents/myproject/bergamot/prototype/.gitignore",
+		"/Users/duytran/bin/git-ignore-unity.sh",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data/constants/device960x640xhdpi.const",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/text/eng/tips.info",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/constants/device1136x640xhdpi.const",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/constants/device1024x768mdpi.const",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org_japan/constants/device1024x768mdpi.const",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSoldierView.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSoldierView.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/multiscreen/ConstDataDesc.cpp.inc",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSoldier.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSoldier.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSkill.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/shop/ShopInforSkill.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data/deploy.sh",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data/constants/device1024x768mdpi.const",
+		"/Users/duytran/Documents/mytraining/bash-scripting/temp/script-2.sh",
+		"/Users/duytran/Documents/mytraining/bash-scripting/temp/script-1.sh",
+		"/Users/duytran/Documents/mytraining/bash-scripting/bash-beginners-guide/src/mysystem.sh",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org_japan/text/jap/endgame.text",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/text/eng/endgame.text",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org_japan/text/jap/menu.text",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/text/eng/menu.text",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/model/HerbUserData.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/common/Utilities.mm",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/MainMenuSlotSelect.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/HerbYesNoContainer.h",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/common/Utilities.h",
+		"/Users/duytran/Documents/myproject/temp/c:c++/helloworld.cpp",
+		"/Users/duytran/Library/LaunchAgents/environment.plist",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/externals/soomla/ios-store3/SoomlaiOSStore/IStoreAssets.h",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/externals/soomla/ios-store/SoomlaiOSStore/domain/data/StaticPriceModel.h",
+		"/Users/duytran/Downloads/iOS8",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/.gitignore",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/data/animations/achievement/services.desc",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/achievement/AchievementConditions.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/720x720/effects/achievementstarfall.effect",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/720x720/animations/Tutorial/HanYu/ArmsCrossed_Hand.anim2d",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/Android.mk",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djos/sourcecode/osal_win32/djosgraphics.cpp",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djos/sourcecode/osal_ios/GameCenterManager.m",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djos/sourcecode/osal_ios/EAGLView.mm",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djos/sourcecode/osal_android/djosjni.cpp",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djengine/sourcecode/djuinode.cpp",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djengine/sourcecode/djservice.cpp",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/include/djservice.h",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/include/djapp.h",
+		"/Users/duytran/Documents/myproject/Mango/djengine-root/djengine/sourcecode/djapp.cpp",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/mcmd.bat",
+		"/Users/duytran/Documents/myproject/Mango/mango-3/mbuild.bat",
+		"/Users/duytran/.zshrc",
+		"/Library/LaunchAgents/environment.plist",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/auth.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/routes/auth.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/routes/middlewares.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/package.json",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/middlewares.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/admin.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/node_modules/passport/lib/strategies/session.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/node_modules/passport/lib/authenticator.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/app.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/routes/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/config.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/models/db.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/utils.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/start-server.sh",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/account.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/login.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/models/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/models/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/addition.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/achievements.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/users/models.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/model/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test/model/users.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/model/db.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/util/utils.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/model/validateutils.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/node_modules/express/History.md",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/levels.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/devices.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/inventories.js",
+		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_09_code/Chapter09/model/db.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/friends.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/bin/www",
+		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_09_code/Chapter09/routes/user.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/.editorconfig",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/myapp/routes/index.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/node_modules/chai/lib/chai/utils/inspect.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/node_modules/bunyan/node_modules/dtrace-provider/scripts/install.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/parse.js",
+		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_09_code/Chapter09/routes/project.js",
+		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_08_code/Chapter08/routes/user.js",
+		"/Users/duytran/.ssh/known_hosts",
+		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_07_code/Chapter07/routes/user.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/node-sample/networking/net-watcher.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/node-sample/file-system/read-stream.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/index.js",
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/cong.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src/view",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/data_org/text/eng",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI/achievement",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src",
+			"/Users/duytran/Documents/myproject/Mango/mango-3/src/view/UI",
+			"/Users/duytran/Downloads/IAP",
+			"/Users/duytran/Desktop/mango",
+			"/Users/duytran/Documents/myproject/Mango/djengine-root/examples",
+			"/Users/duytran/Documents/myproject/Mango/djengine-root/djos/sourcecode/osal_ios",
+			"/Users/duytran/Documents/myproject/Mango/djengine-root/include",
+			"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/test",
+			"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/",
+			"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/node_modules",
+			"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"focusArea",
+			"prefix",
+			"them",
+			"\\",
+			"\\n",
+			"youtub",
+			"PUBLISHED_DEVELOPED_X",
+			"slot",
+			"credit",
+			"COPYRIGHT_FONT_SIZE",
+			"GetUserCoins",
+			"m_nCoins",
+			"m_nTotalEarnCoin",
+			"m_nUsedCoins",
+			"GetBoughtCoin",
+			"KEY_HERB_USER",
+			"m_bStageState",
+			"TIP",
+			"\\n",
+			"TIP",
+			"\\n",
+			"TAP",
+			"VICTORY",
+			"POPUPVICTORY",
+			"MENUSLO",
+			"ACHIEVEMENTPAN",
+			"ACHIEV",
+			"ACHIEVM",
+			"ACHIEVMENT",
+			"MAINMENUSLO",
+			"ACHIEVEMENTPA",
+			"iCLOUD",
+			"POPUPVIC",
+			"HIEGHT",
+			"HIE",
+			"SHOPINFORCASTLE_",
+			"extern djint ",
+			"djint ",
+			"#define",
+			"SHOPINFORSOLDIER_",
+			"djint ",
+			"#define ",
+			"SHOPINFOSKILL",
+			"SHOPINFORSKILL",
+			"SHOPINFORSKILL_",
+			"DJVector2 ",
+			"djint ",
+			"SHOP",
+			"SHOP_",
+			"SHOP",
+			"ACHIEVEMENTPANEL_CONTENT_POS",
+			"ACHIEVEMENT",
+			"0",
+			"SLOT",
+			"iCLOUD_WIDTH",
+			"win",
+			"POPUPUNLOCK_SKILL_WIN",
+			"SHOP_INFOR_SKILL_WIN",
+			"\",",
+			"UndoSlotData",
+			"m_nCoinsBackup",
+			"return nKey",
+			"return 0;",
+			"return 0",
+			"m_niCloudBeginKey",
+			"FlushSlotData",
+			"Merge ",
+			"IncreaseBirdSoldier",
+			"TheUserData->SaveData",
+			"TheUserData",
+			"theAchievementSaveData",
+			"S0_",
+			"S1",
+			"S0",
+			"UnLock",
+			"Pull",
+			"idx",
+			"),",
+			"K_S0",
+			"K_S0_",
+			"K_S0",
+			"K_S00_m_nBoughtInStageNumber",
+			"K_S0",
+			"K_S0S",
+			"K_S0",
+			"K_S0_m_nLock",
+			"idx",
+			"nKey)",
+			"nKey",
+			"++ )",
+			")",
+			");",
+			"clG",
+			");",
+			"clG",
+			");",
+			"clG",
+			"m_pMoveAnim",
+			"SetForRateInternetNotConnect",
+			"GetCurSlotData",
+			"HERBYESNOCONTAINER_LATE_ID",
+			"OnConfirmDeletePopupShowed",
+			"m_pDeleteButtons[idx]",
+			"OnYesFunction",
+			"HERBYESNOCONTAINER_YES_ID",
+			"HERBSLOT_CONFIRM_YES_ID",
+			"HERBSLOT_DELETE01_ID",
+			"m_piCloudButtons",
+			"K_S0_",
+			"m_",
+			"Set",
+			"Get",
+			"Merge",
+			"iCloudHelper",
+			"clLogCloud",
+			"ShowDialog",
+			"GetDescription",
+			"applicationDidFinishLaunching",
+			"cloudAccountDidChange",
+			"synchronize",
+			"cloudAccountDidChange",
+			"onProductPurchased",
+			"addObserver",
+			"requestProductsWithCompletionHandler",
+			"STORE_CUSTOM_SECRET",
+			"asset",
+			"ASSERT",
+			"soomla"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"return ICLOUD_FAILED;",
+			"utils"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "u-topdownshooter.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"vintage_lines.line": 8,
+							"vintage_lines.lines": 10,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "u-topdownshooter.sln",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1162,
+								1162
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage_lines.line": 27,
+							"vintage_lines.lines": 39,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "u-topdownshooter.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"2dplatform.sln"
+			],
+			[
+				"mapsele",
+				"view/UI/mapselection/MapSelectionManager.cpp"
+			],
+			[
+				"u",
+				"common/Utilities.mm"
+			],
+			[
+				"istoreas",
+				"externals/soomla/ios-store3/SoomlaiOSStore/IStoreAssets.h"
+			],
+			[
+				"staticprice",
+				"externals/soomla/ios-store/SoomlaiOSStore/domain/data/StaticPriceModel.h"
+			],
+			[
+				"achievementcontain",
+				"src/view/UI/achievement/AchievementContainer.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
