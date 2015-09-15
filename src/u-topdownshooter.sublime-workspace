@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"Fin",
+				"FindGameObjectWithTag(string tag)	GameObject"
+			],
+			[
+				"cam",
+				"cameraTarget	Vector3"
+			],
+			[
+				"le",
+				"Lerp(Vector3 from, Vector3 to, float t)	Vector3"
+			],
+			[
+				"Vec",
+				"Vector3	Vector3"
+			],
+			[
+				"Game",
+				"GameObject	GameObject"
+			],
+			[
+				"Math",
+				"Mathf	Mathf"
+			],
+			[
 				"end",
 				"endregion	endregion"
 			],
@@ -490,49 +514,25 @@
 			[
 				"get",
 				"getUserCollection"
-			],
-			[
-				"ret",
-				"retUser"
-			],
-			[
-				"mo",
-				"model"
-			],
-			[
-				"logIn",
-				"loginInfo"
-			],
-			[
-				"find",
-				"findOne"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"nu",
-				"num"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "u-topdownshooter.sublime-project",
+			"file": "Assets/Scripts/PlayerController.cs",
 			"settings":
 			{
-				"buffer_size": 129,
+				"buffer_size": 1101,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "u-topdownshooter.sln",
+			"file": "Assets/Scripts/GameCamera.cs",
 			"settings":
 			{
-				"buffer_size": 1406,
-				"line_ending": "Windows"
+				"buffer_size": 498,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -635,10 +635,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/duytran/Documents/myproject/u-topdownshooter/src"
+		"/Users/duytran/Documents/myproject/u-topdownshooter/src",
+		"/Users/duytran/Documents/myproject/u-topdownshooter/src/Assets",
+		"/Users/duytran/Documents/myproject/u-topdownshooter/src/Assets/Scripts"
 	],
 	"file_history":
 	[
+		"/Users/duytran/Documents/myproject/u-topdownshooter/src/u-topdownshooter.sublime-project",
 		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Camera/CameraFollow.cs",
 		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Platform/PlatformController.cs",
 		"/Users/duytran/Documents/myproject/u-2dplatform/src/Assets/Scripts/Character/Controller2D.cs",
@@ -765,8 +768,7 @@
 		"/Users/duytran/Downloads/8195OS_code for errata in chapter 5/Final Code/8195OS_07_code/Chapter07/routes/user.js",
 		"/Users/duytran/Documents/myproject/myNodejs/src/node-sample/networking/net-watcher.js",
 		"/Users/duytran/Documents/myproject/myNodejs/src/node-sample/file-system/read-stream.js",
-		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/index.js",
-		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/cong.html"
+		"/Users/duytran/Documents/myproject/myNodejs/src/nodejs-training/viscaria/routes/index.js"
 	],
 	"find":
 	{
@@ -948,64 +950,32 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "u-topdownshooter.sublime-project",
+					"file": "Assets/Scripts/PlayerController.cs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 129,
+						"buffer_size": 1101,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								121,
-								121
+								1050,
+								1050
 							]
 						],
 						"settings":
 						{
 							"line_numbers": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"vintage_lines.line": 8,
-							"vintage_lines.lines": 10,
-							"vintage_lines.mode": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "u-topdownshooter.sln",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1406,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1162,
-								1162
-							]
-						],
-						"settings":
-						{
-							"line_numbers": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/C#/C#.tmLanguage",
 							"translate_tabs_to_spaces": false,
-							"vintage_lines.line": 27,
+							"vintage_lines.line": 35,
 							"vintage_lines.lines": 39,
 							"vintage_lines.mode": true
 						},
@@ -1014,6 +984,38 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/GameCamera.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"vintage_lines.line": 9,
+							"vintage_lines.lines": 18,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
